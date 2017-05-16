@@ -1,4 +1,4 @@
-package wwp.com.wkb;
+package com.wwp.wkb;
 
 import org.junit.Test;
 

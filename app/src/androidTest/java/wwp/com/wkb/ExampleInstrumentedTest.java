@@ -1,4 +1,4 @@
-package wwp.com.wkb;
+package com.wwp.wkb;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("wwp.com.wkb", appContext.getPackageName());
+        assertEquals("com.wwp.wkb", appContext.getPackageName());
     }
 }

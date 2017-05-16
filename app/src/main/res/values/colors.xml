@@ -3,4 +3,83 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="uvv_green">#ff50b100</color>
+    <color name="uvv_black">#ff000000</color>
+    <color name="uvv_light_gray">#ffF0F0F0</color>
+    <color name="uvv_gray">#ffbbbbbb</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="color3">#333333</color>
+    <color name="color9">#999999</color>
+    <color name="colorE4">#e4e4e4</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="grey_700">#3C3F41</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="yellow_700">#FBC02D</color>
+
+    <color name="colorBackPre">#744EB8</color>
+    <color name="colorBackPre2">#5855C4</color>
+    <color name="colorButtonBg">#0B1B35</color>
+    <color name="colorButtonBgPre">#800B1B35</color>
+    <color name="colorMainText">#6847F1</color>
+    <color name="colorMainTitleText">#7355FF</color>
+    <color name="colorMainBgPre">#507355FF</color>
+    <color name="colorWhite_80">#80ffffff</color>
+    <color name="colorWhite_70">#70ffffff</color>
+    <color name="colorWhite_60">#60ffffff</color>
+    <color name="colorOrange1">#faba70</color>
+    <color name="colorOrange2">#fdb465</color>
+    <color name="colorRange">#50c7bb</color>
+    <color name="colorTitle">#342A4C</color>
+    <color name="toast_bg">#dddfe0</color>
+    <color name="color_loc_bg">#D2D4E1</color>
+    <color name="colorHotBg">#262954</color>
+    <color name="colorOrderBt">#12223B</color>
+    <color name="colorOrderLeftBg">#50262954</color>
+    <color name="colorOrderLeftFg">#20500000</color>
+    <color name="colorOrderPic">#E44233</color>
+
+    <color name="colorBtnWhite">#E5E5E5</color>
+    <color name="colorBtnYellow">#FEA90E</color>
+    <color name="colorBtnBlue">#684BF1</color>
+
+    <color name="colorLine">#524A7D</color>
+    <color name="colorTitleBackground">#342A4C</color>
+    <color name="colorGray">#80816E9B</color>
+    <color name="colorEditTestBg">#97A3B9</color>
+
+    <color name="clolrGreyText">#B0A2B4</color>
+    <color name="colorEtBg">#5087759D</color>
+
+    <color name="colorBg">#403871</color>
+    <color name="colorBottomButton">#684BF1</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorPink">#B36BE9</color>
+    <color name="colorPink2">#B76DEE</color>
+    <color name="colorGray_2">#8C7D92</color>
+    <color name="colorGrayTextView">#80809F</color>
+    <color name="colorBlack_1">#3F366B</color>
+
+    <color name="toolBar">#342A4C</color>
+    <color name="toolBarClick">#52486A</color>
+    <color name="color_tran">#00000000</color>
+    <color name="color_purple">#AF7DE0</color>
+    <color name="color_blue_gray">#3DC0BB</color>
+
+    <color name="app_violet">#8970FF</color>
+    <color name="app_blue">#684BF1</color>
+    <color name="multiple_image_select_primaryDark">#342A4C</color>
+    <color name="golden_stars">#FFC619</color>
+
+
+    <color name="color_detail">#88192F57</color>
+    <color name="color_blank_normal">#192F56</color>
+    <color name="color_text_thin">#88ffffff</color>
+    <color name="color_text_yellow">#FFC619</color>
+    <color name="color_line">#60ffffff</color>
 </resources>
